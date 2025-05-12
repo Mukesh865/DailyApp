@@ -1,46 +1,16 @@
-📅 DailyApp - Todo App (Flutter + Firebase)
-DailyApp is a simple and clean Todo application built using Flutter and Firebase. The app helps users manage their daily tasks efficiently with real-time data syncing and a user-friendly interface.
+# dailyapp
 
-✨ Features
-✅ Add, update, and delete tasks
+A new Flutter project.
 
-🗂️ Organize tasks in a list view
+## Getting Started
 
-☁️ Real-time sync with Firebase Firestore
+This project is a starting point for a Flutter application.
 
-📱 Responsive design for different screen sizes
+A few resources to get you started if this is your first Flutter project:
 
-🛠️ Tech Stack
-Flutter (Frontend UI & App Development)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Firebase Firestore (Realtime Database)
-
-Provider / Riverpod (State Management) (mention which one you used)
-
-📸 Screenshots
-(Add app screenshots here)
-
-🚀 Getting Started
-Prerequisites
-Flutter SDK
-
-Firebase Project Setup
-
-Android Studio / VSCode
-
-Installation
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/DailyApp.git
-cd DailyApp
-flutter pub get
-flutter run
-Firebase Setup
-Create a Firebase project at Firebase Console.
-
-Enable Firestore Database.
-
-Download the google-services.json (for Android) and/or GoogleService-Info.plist (for iOS).
-🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests for improvements.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
