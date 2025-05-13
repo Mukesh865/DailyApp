@@ -13,11 +13,6 @@
         }
       },
       "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBszTfei6x9VfzIAI_nATmEjxAyMcJEmfk"
-        }
-      ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": []
